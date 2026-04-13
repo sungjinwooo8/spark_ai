@@ -1,0 +1,12 @@
+node_modules/
+.env
+.DS_Store
+dist/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+Client/node_modules/
+Server/node_modules/
+client/dist/
+server/.env
